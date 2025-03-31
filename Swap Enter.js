@@ -19,7 +19,7 @@ class ChangeConfigWidget extends api.NoteContextAwareWidget {
         this.editorIntervalId = setInterval(async () => {
             const editor = await api.getActiveContextTextEditor();
             clearInterval(this.editorIntervalId);
-            if (this.initializedEditorIds.includes(editor.id)) {
+            if (!editor || this.initializedEditorIds.includes(editor.id)) {
                 return;
             }
             this.initializedEditorIds.push(editor.id);
