@@ -6,9 +6,15 @@ Please stand up and stretch your body for a while if you see this :)
 
 [![Support Me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nriver)
 
-**Imporve your experience**
+**Improve your experience**
 
-Swap "enter" and "shift + enter" in Trilium Notes. And that's it.
+Swap "enter" and "shift + enter" in Trilium Notes, with a special exception for lists.
+
+## Features
+
+- Swaps the behavior of "Enter" and "Shift+Enter" keys for most content
+- Preserves normal behavior when editing lists (numbered lists, bulleted lists, to-do lists)
+- Makes it easier to create new paragraphs with a single key press
 
 # How to install
 
@@ -22,17 +28,17 @@ Swap "enter" and "shift + enter" in Trilium Notes. And that's it.
 
 A Trilium Notes user asked for this feature : )
 
-Thanks to this (comment)[https://github.com/zadam/trilium/issues/4402#issuecomment-1802792643] made by [mabeyj](https://github.com/mabeyj) which inspired me.
+Thanks to this [comment](https://github.com/zadam/trilium/issues/4402#issuecomment-1802792643) made by [mabeyj](https://github.com/mabeyj) which inspired me.
 
 # Donation
 
 Hello! If you appreciate my creations, kindly consider backing me. Your support is greatly appreciated. Thank you!
 
-Ko-fi:  
+Ko-fi:
 [![Support Me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nriver)
 
-Alipay:  
+Alipay:
 ![Alipay](https://github.com/Nriver/trilium-translation/raw/main/docs/alipay.png)
 
-Wechat Pay:  
+Wechat Pay:
 ![Wechat Pay](https://github.com/Nriver/trilium-translation/raw/main/docs/wechat_pay.png)

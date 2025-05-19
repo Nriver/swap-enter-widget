@@ -6,7 +6,13 @@
 
 **提升你的体验**
 
-交换Trilium Notes 的 `enter` 和 `shift + enter` 的功能。
+交换Trilium Notes 的 `enter` 和 `shift + enter` 的功能，但在列表中保持原有行为。
+
+## 功能特点
+
+- 对大多数内容交换 "Enter" 和 "Shift+Enter" 键的行为
+- 在编辑列表（有序列表、无序列表、待办事项列表）时保持正常行为
+- 使用单个按键就能轻松创建新段落
 
 # 安装方法
 
@@ -26,11 +32,11 @@
 
 你好！如果你喜欢我的作品，请考虑支持我。非常感谢你的支持。谢谢！
 
-支付宝:  
+支付宝:
 ![Alipay](https://github.com/Nriver/trilium-translation/raw/main/docs/alipay.png)
 
-微信:  
+微信:
 ![Wechat Pay](https://github.com/Nriver/trilium-translation/raw/main/docs/wechat_pay.png)
 
-在Ko-fi上支持我:  
+在Ko-fi上支持我:
 [![在Ko-fi上支持我](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nriver)
